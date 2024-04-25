@@ -1,6 +1,6 @@
 # attention
 
-Implementation of self-attention that closely follows [3Blue1Brown's video](https://youtu.be/eMlx5fFNoYc?si=sMv_A4gNVFOWIkso).
+Implementation of causal self-attention that closely follows [3Blue1Brown's "Attention in transformers, visually explained | Chapter 6, Deep Learning" video](https://youtu.be/eMlx5fFNoYc?si=sMv_A4gNVFOWIkso).
 
 ## Files
 
